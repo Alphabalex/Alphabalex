@@ -8,8 +8,8 @@ HTML/CSS/Bootstrap/Materialize
 - 👀 I’m interested in web application development and software development.
 - 🌱 I’m currently learning Mobile Application development with Flutter.
 - 📫 How to reach me
-Tel:+2348085744967
-email:babusunnah@gmail.com
+Tel: +2348085744967
+Email: babusunnah@gmail.com
 - 💞️ Coding’s kind of fun for me. I get to innovate and think outside the box. It’s kind of fun.
 
 <!---
